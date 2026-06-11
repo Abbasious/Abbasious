@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abbasious
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Dart, JavaScript and python
+- 🌱 I’m always learning python
 - 💞️ I’m looking to collaborate on mobile application development and Game development
 - 📫 How to reach me on Twitter: @imAbbasious
 
